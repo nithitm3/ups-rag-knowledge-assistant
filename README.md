@@ -1,5 +1,7 @@
 # UPS Knowledge Assistant – Retrieval Augmented Generation (RAG) System
 
+Grok api_key = "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"
+
 ## Overview
 
 This project implements a **Retrieval Augmented Generation (RAG) based chatbot** that allows users to ask questions about the **UPS Sustainability Report**.
